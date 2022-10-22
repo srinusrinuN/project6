@@ -1,0 +1,2 @@
+
+<b>${renderRequest.getPortletMode()}/${renderRequest.getWindowState()}: ${portlet.getPortletName()}, (view template)</b>
